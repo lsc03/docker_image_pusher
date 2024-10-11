@@ -4,4 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-centralx/spring-runner:8
+
+#明动jdk
+#centralx/spring-runner:8
+grafana/grafana-enterprise
