@@ -7,4 +7,4 @@
 
 #明动jdk
 #centralx/spring-runner:8
-grafana/grafana-enterprise
+grafana/grafana-enterprise:11.2.0
