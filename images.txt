@@ -8,5 +8,5 @@
 #md-jdk
 #centralx/spring-runner:8
 
---platform=linux/arm64 grafana/grafana:11.2.0
+--platform=linux/aarch64 grafana/grafana:11.2.0
 #--platform=linux/arm64 grafana/grafana:11.2.2
