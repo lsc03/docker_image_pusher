@@ -12,5 +12,21 @@
 #--platform=linux/arm64 grafana/grafana:11.2.2
 
 
-docker.elastic.co/elasticsearch/elasticsearch:8.19.4
-docker.elastic.co/logstash/logstash:8.19.4
+#docker.elastic.co/elasticsearch/elasticsearch:8.19.4
+#docker.elastic.co/logstash/logstash:8.19.4
+# harbor
+goharbor/harbor-core:2.14.0
+goharbor/harbor-portal:2.14.0
+goharbor/harbor-jobservice:2.14.0
+goharbor/registry-photon:2.14.0
+goharbor/harbor-registryctl:2.14.0
+goharbor/chartmuseum-photon:2.14.0
+goharbor/trivy-adapter-photon:2.14.0
+goharbor/notary-server-photon:2.14.0
+goharbor/notary-signer-photon:2.14.0
+goharbor/redis-photon:2.14.0
+goharbor/harbor-db:2.14.0
+goharbor/nginx-photon:2.14.0
+# Harbor Dependencies (Bitnami)
+docker.io/bitnami/redis:7.2.3
+docker.io/bitnami/postgresql:16.1.0
