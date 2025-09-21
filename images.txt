@@ -16,17 +16,10 @@
 #docker.elastic.co/logstash/logstash:8.19.4
 # harbor
 goharbor/harbor-core:v2.14.0
-goharbor/harbor-portal:v2.14.0
+goharbor/harbor-db:v2.14.0
 goharbor/harbor-jobservice:v2.14.0
+goharbor/harbor-portal:v2.14.0
+goharbor/redis-photon:v2.14.0
 goharbor/registry-photon:v2.14.0
 goharbor/harbor-registryctl:v2.14.0
-goharbor/chartmuseum-photon:v2.14.0
 goharbor/trivy-adapter-photon:v2.14.0
-goharbor/notary-server-photon:v2.14.0
-goharbor/notary-signer-photon:v2.14.0
-goharbor/redis-photon:v2.14.0
-goharbor/harbor-db:v2.14.0
-goharbor/nginx-photon:v2.14.0
-# Harbor Dependencies (Bitnami)
-docker.io/bitnami/redis:7.2.3
-docker.io/bitnami/postgresql:16.1.0
