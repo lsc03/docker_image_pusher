@@ -26,4 +26,6 @@
 #goharbor/trivy-adapter-photon:v2.14.0
 
 # golang
-golang:1.24.0
+#golang:1.24.0
+
+alpine:latest
