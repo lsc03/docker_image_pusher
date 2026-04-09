@@ -31,5 +31,8 @@
 #alpine:latest
 #rancher/klipper-lb:v0.4.13
 #rancher/mirrored-library-traefik:3.3.6
-rancher/mirrored-library-busybox:1.36.1
-registry:2
+#rancher/mirrored-library-busybox:1.36.1
+#registry:2
+
+docker.io/jenkins/jenkins:2.541.3-jdk21
+docker.io/kiwigrid/k8s-sidecar:2.5.0
