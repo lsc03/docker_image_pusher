@@ -28,4 +28,5 @@
 # golang
 #golang:1.24.0
 
-alpine:latest
+#alpine:latest
+rancher/klipper-lb:v0.4.13
