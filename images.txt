@@ -29,4 +29,5 @@
 #golang:1.24.0
 
 #alpine:latest
-rancher/klipper-lb:v0.4.13
+#rancher/klipper-lb:v0.4.13
+rancher/mirrored-library-traefik:3.3.6
