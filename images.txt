@@ -30,4 +30,6 @@
 
 #alpine:latest
 #rancher/klipper-lb:v0.4.13
-rancher/mirrored-library-traefik:3.3.6
+#rancher/mirrored-library-traefik:3.3.6
+rancher/mirrored-library-busybox:1.36.1
+registry:2
