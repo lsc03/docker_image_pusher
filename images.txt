@@ -43,4 +43,5 @@
 #docker.io/jenkins/inbound-agent:3355.v388858a_47b_33-3-jdk21
 #golang:1.21-alpine
 #nginx:alpine
-alpine:latest
+#alpine:latest
+mirror.gcr.io/aquasec/trivy-db:2
