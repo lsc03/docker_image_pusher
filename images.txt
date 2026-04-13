@@ -44,4 +44,4 @@
 #golang:1.21-alpine
 #nginx:alpine
 #alpine:latest
-mirror.gcr.io/aquasec/trivy-db:2
+aquasec/trivy-db:2
