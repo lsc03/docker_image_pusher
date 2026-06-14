@@ -5,4 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-aquasec/trivy:0.59.1
+#aquasec/trivy:0.59.1
+calico/kube-controllers:v3.8.2
+calico/node:v3.8.2
+k8s.gcr.io/coredns:1.6.2
+k8s.gcr.io/kube-proxy:v1.16.14
