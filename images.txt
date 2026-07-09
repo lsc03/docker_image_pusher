@@ -8,5 +8,6 @@
 #aquasec/trivy:0.59.1
 #calico/cni:v3.8.2
 #calico/pod2daemon-flexvol:v3.8.2
-nginx:1.26-alpine
-nginx:1.26
+#nginx:1.26-alpine
+#nginx:1.26
+bitnami/mongodb:5.0.9
